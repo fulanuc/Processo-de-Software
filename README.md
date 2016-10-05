@@ -3,11 +3,15 @@ Trabalho número 3 de Gerência de Configuração de Software - 2016 - Professor
 
 Aluno(s):
 
-fulano - 20-000000
+Dhiogo Neres - 20-150338
 
-sicrano - 20-0000000
+João Lucas Bastos - 20-1503345
 
-beltrano - 20-000000
+Julien David - 20-1508736
+
+Rafael Beffart - 20-1503359
+
+Rodrigo Aguiar - 20-1503365
 
 Romulo Borges - 20-126321
 
